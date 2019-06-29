@@ -1,0 +1,10 @@
+venv_win
+venv
+
+result
+
+__pycache__
+
+.idea
+
+*.exe
