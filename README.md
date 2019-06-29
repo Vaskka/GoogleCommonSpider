@@ -9,7 +9,7 @@
 使用pip安装selenium, requests
 
 ``` bash
-    pip3 install selenium requests
+pip3 install selenium requests
 ```
 
 下载chrome驱动
